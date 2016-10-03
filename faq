@@ -1,0 +1,13 @@
+Hi,
+
+da du aus Müchen kommst kann ich dir ja auf deutsch schreiben. Kannst du mir zufällig erklären, wie man deine API mit requirejs benutzt?
+Ich bekomme leider immer die Meldung, dass Deine Utils nicht geladen werden können - liegt aber vermutlich daran, 
+dass ich noch nie wirklich mit requireJS gearbeitet habe. 
+
+Ich hab selbst mal versucht mir was für die Webapp zu schreiben (in JAVA allerdings) nur friert mein Apache HttpClient ein, wenn ich den TwoFactorCode sende :D
+
+Gruß 
+
+Sören
+
+(soeren@borgstedt.net)
